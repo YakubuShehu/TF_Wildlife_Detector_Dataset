@@ -2,7 +2,7 @@
 
 This is a dataset that I collected to train my own Wildlife detector with [TensorFlow's Object Detection API](https://github.com/tensorflow/models/tree/master/research/object_detection).
 
-> Due to time and resource limitations, the image dataset of wildlife used for training and testing, are from simulations generated from 3D Models. In total, there are roughly 254 images.
+> Due to time and resource limitations, the image dataset of wildlife used for training and validation, are from simulations generated from 3D Models. In total, there are roughly 794 images.
 ```90% : 10% - Train : Test split``` 
 
 ## Getting Started

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ostrich</folder>
+	<filename>ostrich-098.jpg</filename>
+	<path>C:\Users\shehu\Downloads\#Datasets\3D_Models\Object_Detection\_training-images\ostrich\ostrich-098.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>759</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ostrich</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>400</xmin>
+			<ymin>420</ymin>
+			<xmax>439</xmax>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+</annotation>

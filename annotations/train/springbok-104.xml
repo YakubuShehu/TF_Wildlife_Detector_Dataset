@@ -1,0 +1,26 @@
+<annotation>
+	<folder>springbok</folder>
+	<filename>springbok-104.jpg</filename>
+	<path>C:\Users\shehu\Downloads\#Datasets\3D_Models\Object_Detection\_training-images\springbok\springbok-104.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>759</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>springbok</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>450</xmin>
+			<ymin>383</ymin>
+			<xmax>638</xmax>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+</annotation>
