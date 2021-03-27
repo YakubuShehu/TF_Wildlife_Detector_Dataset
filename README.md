@@ -12,20 +12,20 @@ It was generated for use with my MSc Thesis : *AN OPTIMIZED NEURAL-NETWORK BASED
 
 ##### Folder Structure:
 ```
-+ annotations: contains the xml files in PASCAL VOC format
++ annotations: contains the xml files in PASCAL VOC format.
 
-+ data: contains the input file for the TF object detection API and the label files (csv)
++ data: contains the input file for the TF object detection API and the label files (csv).
 
-+ images: contains the image data in .jpg/.png format
++ images: contains the image data in .jpg/.png format.
 
 + test_images_3D: contains the images used to test/validate the accuracy of single image inferences on 3D simulated wildife.
 
-+ test_images_RW: contains the images used to test/validate the accuracy of single image inferences on 'Real World' wildlife.
++ test_images_RW: contains the images used to test/validate the accuracy of single image inferences on 'real-world' wildlife.
 
-+ training_checkpoints: contains custom exported training results and frozen inference graphs from various training results.
++ training_checkpoints: contains exported training results (attempted inference) and frozen inference graphs from various training experiments.
 
 - a few handy scripts: generate_tfrecord.py is used to generate the input files
-for the TF API and xml_to_csv.py is used to convert the xml files into one csv
+for the TF API and xml_to_csv.py is used to convert the xml files into one csv.
 ```
 
 ## Copyright
